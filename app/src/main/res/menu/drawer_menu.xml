@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+        android:id="@+id/nav_trangchu"
+        android:icon="@drawable/ic_home"
+        android:title="@string/trangchu" />
+        <item
+            android:id="@+id/nav_thoisu"
+            android:icon="@drawable/ic_thoisu"
+            android:title="@string/thoisu" />
+        <item
+            android:id="@+id/nav_thethao"
+            android:icon="@drawable/ic_sports"
+            android:title="@string/thethao" />
+        <item
+            android:id="@+id/nav_suckhoe"
+            android:icon="@drawable/suckhoe"
+            android:title="@string/suckhoe" />
+        <item
+            android:id="@+id/nav_thegioi"
+            android:icon="@drawable/thoisu"
+            android:title="@string/thegioi" />
+        <item
+            android:id="@+id/nav_phapluat"
+            android:icon="@drawable/ic_phapluat"
+            android:title="@string/phapluat" />
+        <item
+            android:id="@+id/nav_giaitri"
+            android:icon="@drawable/ic_giaitri"
+            android:title="@string/giaitri" />
+        <item
+            android:id="@+id/nav_startup"
+            android:icon="@drawable/ic_startup"
+            android:title="@string/startup" />
+        <item
+            android:id="@+id/nav_kinhdoanh"
+            android:icon="@drawable/ic_kinhdoanh"
+            android:title="@string/kinhdoanh" />
+        <item
+            android:id="@+id/nav_khoahoc"
+            android:icon="@drawable/ic_khoahoc"
+            android:title="@string/khoahoc" />
+        <item
+            android:id="@+id/nav_tinxemnhieu"
+            android:icon="@drawable/ic_xemnhieu"
+            android:title="@string/tinxemnhieu" />
+        <item
+            android:id="@+id/nav_tinnoibat"
+            android:icon="@drawable/ic_tinhot"
+            android:title="@string/tinnoibat" />
+        <item
+            android:id="@+id/nav_tinmoinhat"
+            android:icon="@drawable/ic_moinhat"
+            android:title="@string/tinmoinhat" />
+        <item
+            android:id="@+id/nav_cuoi"
+            android:icon="@drawable/ic_cuoi"
+            android:title="@string/cuoi" />
+        <item
+            android:id="@+id/nav_tamsu"
+            android:icon="@drawable/ic_tamsu"
+            android:title="@string/tamsu" />
+        <item
+            android:id="@+id/nav_ykien"
+            android:icon="@drawable/ic_ykien"
+            android:title="@string/ykien" />
+        <item
+            android:id="@+id/nav_xe"
+            android:icon="@drawable/ic_xe"
+            android:title="@string/xe" />
+        <item
+            android:id="@+id/nav_sohoa"
+            android:icon="@drawable/ic_sohoa"
+            android:title="@string/sohoa" />
+        <item
+            android:id="@+id/nav_dulich"
+            android:icon="@drawable/ic_dulich"
+            android:title="@string/dulich" />
+        <item
+            android:id="@+id/nav_doisong"
+            android:icon="@drawable/ic_doisong"
+            android:title="@string/doisong" />
+        <item
+            android:id="@+id/nav_giaoduc"
+            android:icon="@drawable/ic_giaoduc"
+            android:title="@string/giaoduc" />
+    </group>
+</menu>

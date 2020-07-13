@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VNEXPRESS</string>
+    <string name="trangchu">Trang Chủ</string>
+    <string name="thethao">Thể Thao</string>
+    <string name="doisong">Đời Sống</string>
+    <string name="suckhoe">Sức Khoẻ</string>
+    <string name="thoisu">Thời Sự</string>
+    <string name="thegioi">Thế Giới</string>
+    <string name="kinhdoanh">Kinh Doanh</string>
+    <string name="giaitri">Giải Trí</string>
+    <string name="phapluat">Pháp Luật</string>
+    <string name="giaoduc">Giáo Dục</string>
+    <string name="tinmoinhat">Tin Mới Nhất</string>
+    <string name="dulich">Du Lịch</string>
+    <string name="khoahoc">Khoa Học</string>
+    <string name="tamsu">Tâm Sự</string>
+    <string name="tinxemnhieu">Tin Xem Nhieu</string>
+    <string name="ykien">Ý Kiến</string>
+    <string name="cuoi">Cười</string>
+    <string name="xe">Xe</string>
+    <string name="sohoa">Số Hoá</string>
+    <string name="startup">Startup</string>
+    <string name="tinnoibat">Tin Nổi Bật</string>
+    <string name="video">Video</string>
+    <string name="thoitiet">Thời Tiết</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
